@@ -1,0 +1,584 @@
+2023-08-27 09:20:55,323 : INFO : *********Test Case 001 Login******
+2023-08-27 09:20:55,324 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:20:55,749 : INFO : *********Login to application******
+2023-08-27 09:21:01,021 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:21:01,021 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:21:40,849 : INFO : *********Test Case 001 Login******
+2023-08-27 09:21:40,849 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:21:41,236 : INFO : *********Login to application******
+2023-08-27 09:21:49,119 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:21:49,119 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:31:27,711 : INFO : *********Test Case 001 Login******
+2023-08-27 09:31:27,711 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:31:28,140 : INFO : *********Login to application******
+2023-08-27 09:31:29,780 : ERROR : Test Case 001 Login : Failed: check login function
+2023-08-27 09:31:29,781 : ERROR : *********Test Case 001 Login completed ******
+2023-08-27 09:51:42,260 : INFO : *********Test Case 001 Login******
+2023-08-27 09:51:42,261 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:51:42,766 : INFO : *********Login to application******
+2023-08-27 09:51:44,380 : ERROR : Test Case 001 Login : Failed: check login function
+2023-08-27 09:51:44,380 : ERROR : *********Test Case 001 Login completed ******
+2023-08-27 09:52:15,255 : INFO : *********Test Case 001 Login******
+2023-08-27 09:52:15,256 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:52:15,790 : INFO : *********Login to application******
+2023-08-27 09:52:16,777 : ERROR : Test Case 001 Login : Failed: check login function
+2023-08-27 09:52:16,778 : ERROR : *********Test Case 001 Login completed ******
+2023-08-27 09:52:39,779 : INFO : *********Test Case 001 Login******
+2023-08-27 09:52:39,780 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:52:40,197 : INFO : *********Login to application******
+2023-08-27 09:52:40,931 : ERROR : Test Case 001 Login : Failed: check login function
+2023-08-27 09:52:40,931 : ERROR : *********Test Case 001 Login completed ******
+2023-08-27 09:53:01,723 : INFO : *********Test Case 001 Login******
+2023-08-27 09:53:01,723 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:53:02,176 : INFO : *********Login to application******
+2023-08-27 09:53:07,885 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:53:07,885 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:53:24,956 : INFO : *********Test Case 001 Login******
+2023-08-27 09:53:24,958 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:53:25,690 : INFO : *********Login to application******
+2023-08-27 09:53:33,132 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:53:33,132 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:54:37,256 : INFO : *********Test Case 001 Login******
+2023-08-27 09:54:37,257 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:54:37,491 : INFO : *********Login to application******
+2023-08-27 09:55:16,213 : INFO : *********Test Case 001 Login******
+2023-08-27 09:55:16,214 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:55:16,500 : INFO : *********Login to application******
+2023-08-27 09:55:42,847 : INFO : *********Test Case 001 Login******
+2023-08-27 09:55:42,848 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:55:43,283 : INFO : *********Login to application******
+2023-08-27 09:55:48,931 : INFO : *********Test Case 001 Login******
+2023-08-27 09:55:48,932 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:55:49,387 : INFO : *********Login to application******
+2023-08-27 09:55:59,129 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:55:59,130 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:56:03,986 : INFO : Test Case 001 Login : Passed
+2023-08-27 09:56:03,987 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 09:56:43,907 : INFO : *********Test Case 001 Login******
+2023-08-27 09:56:43,907 : INFO : *********successfully lauched appliaction******
+2023-08-27 09:56:44,303 : INFO : *********Login to application******
+2023-08-27 10:01:50,763 : INFO : *********Test Case 001 Login******
+2023-08-27 10:01:50,763 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:01:51,220 : INFO : *********Login to application******
+2023-08-27 10:01:56,983 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:01:56,983 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:17:37,949 : INFO : *********Test Case 001 Login******
+2023-08-27 10:17:37,950 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:17:38,368 : INFO : *********Login to application******
+2023-08-27 10:17:44,909 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:17:44,910 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:17:53,520 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:17:53,520 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:17:53,947 : INFO : *********Login to application******
+2023-08-27 10:17:56,979 : INFO : *********Verify application Logo******
+2023-08-27 10:17:59,293 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:17:59,294 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:19:01,543 : INFO : *********Test Case 001 Login******
+2023-08-27 10:19:01,543 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:19:02,034 : INFO : *********Login to application******
+2023-08-27 10:19:08,113 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:19:08,114 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:19:16,674 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:19:16,674 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:19:17,129 : INFO : *********Login to application******
+2023-08-27 10:19:22,752 : INFO : *********Verify application Logo******
+2023-08-27 10:19:23,165 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:19:23,165 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:20:47,576 : INFO : *********Test Case 001 Login******
+2023-08-27 10:20:47,577 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:20:47,996 : INFO : *********Login to application******
+2023-08-27 10:20:54,631 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:20:54,632 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:21:04,701 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:21:04,701 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:21:05,190 : INFO : *********Login to application******
+2023-08-27 10:21:09,798 : INFO : *********Verify application Logo******
+2023-08-27 10:21:10,083 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:21:10,083 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:21:56,223 : INFO : *********Test Case 001 Login******
+2023-08-27 10:21:56,224 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:21:56,665 : INFO : *********Login to application******
+2023-08-27 10:22:02,697 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:22:02,697 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:22:11,293 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:22:11,293 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:22:11,782 : INFO : *********Login to application******
+2023-08-27 10:22:16,360 : INFO : *********Verify application Logo******
+2023-08-27 10:22:16,410 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:22:16,410 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:23:26,312 : INFO : *********Test Case 001 Login******
+2023-08-27 10:23:26,312 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:23:26,724 : INFO : *********Login to application******
+2023-08-27 10:23:34,314 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:23:34,314 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:23:43,167 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:23:43,167 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:23:43,583 : INFO : *********Login to application******
+2023-08-27 10:23:48,158 : INFO : *********Verify application Logo******
+2023-08-27 10:23:48,353 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:23:48,353 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:25:45,531 : INFO : *********Test Case 001 Login******
+2023-08-27 10:25:45,585 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:25:45,985 : INFO : *********Login to application******
+2023-08-27 10:25:53,896 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:25:53,896 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:26:01,979 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:26:01,979 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:26:02,470 : INFO : *********Login to application******
+2023-08-27 10:26:07,514 : INFO : *********Verify application Logo******
+2023-08-27 10:26:07,562 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:26:07,562 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:27:04,743 : INFO : *********Test Case 001 Login******
+2023-08-27 10:27:04,744 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:27:04,820 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:27:04,821 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:27:05,597 : INFO : *********Login to application******
+2023-08-27 10:27:05,598 : INFO : *********Login to application******
+2023-08-27 10:27:14,468 : INFO : *********Verify application Logo******
+2023-08-27 10:27:14,540 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:27:14,541 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:27:16,508 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:27:16,508 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:28:42,624 : INFO : *********Test Case 001 Login******
+2023-08-27 10:28:42,627 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:28:43,035 : INFO : *********Login to application******
+2023-08-27 10:28:50,644 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:28:50,644 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:28:57,893 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:28:57,894 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:28:58,315 : INFO : *********Login to application******
+2023-08-27 10:29:00,873 : INFO : *********Verify application Logo******
+2023-08-27 10:29:00,959 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:29:00,959 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:29:58,111 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:29:58,112 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:29:58,303 : INFO : *********Test Case 001 Login******
+2023-08-27 10:29:58,304 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:29:58,718 : INFO : *********Login to application******
+2023-08-27 10:29:58,848 : INFO : *********Login to application******
+2023-08-27 10:30:03,800 : INFO : *********Verify application Logo******
+2023-08-27 10:30:03,982 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:30:03,983 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:30:05,719 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:30:05,720 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:53:59,603 : INFO : *********Test Case 001 Login******
+2023-08-27 10:53:59,604 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:54:00,034 : INFO : *********Login to application******
+2023-08-27 10:54:02,928 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:54:02,929 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:54:03,509 : INFO : *********Login to application******
+2023-08-27 10:54:07,187 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:54:07,187 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:54:08,434 : INFO : *********Verify application Logo******
+2023-08-27 10:54:08,698 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:54:08,698 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:54:30,051 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:54:30,051 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:54:30,444 : INFO : *********Login to application******
+2023-08-27 10:54:31,518 : INFO : *********Test Case 001 Login******
+2023-08-27 10:54:31,519 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:54:31,943 : INFO : *********Login to application******
+2023-08-27 10:54:36,391 : INFO : *********Verify application Logo******
+2023-08-27 10:54:36,675 : ERROR : Test Case 002 Application Logo : Failed
+2023-08-27 10:54:36,675 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:54:39,349 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:54:39,350 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 10:55:42,747 : INFO : *********Test Case 001 Login******
+2023-08-27 10:55:42,748 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:55:43,256 : INFO : *********Login to application******
+2023-08-27 10:55:44,073 : INFO : *********Test Case 002 application Logo******
+2023-08-27 10:55:44,073 : INFO : *********successfully lauched appliaction******
+2023-08-27 10:55:44,674 : INFO : *********Login to application******
+2023-08-27 10:55:49,162 : INFO : *********Verify application Logo******
+2023-08-27 10:55:49,250 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 10:55:49,250 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 10:55:50,234 : INFO : Test Case 001 Login : Passed
+2023-08-27 10:55:50,235 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 11:37:55,807 : INFO : *********Test Case 001 Login******
+2023-08-27 11:37:55,808 : INFO : *********successfully lauched appliaction******
+2023-08-27 11:37:56,292 : INFO : *********Login to application******
+2023-08-27 11:38:03,522 : INFO : Test Case 001 Login : Passed
+2023-08-27 11:38:03,523 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 11:38:13,699 : INFO : *********Test Case 002 application Logo******
+2023-08-27 11:38:13,699 : INFO : *********successfully lauched appliaction******
+2023-08-27 11:38:14,183 : INFO : *********Login to application******
+2023-08-27 11:38:18,084 : INFO : *********Verify application Logo******
+2023-08-27 11:38:18,185 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 11:38:18,185 : INFO : *********Test Case 002 Application Logo completed ******
+2023-08-27 11:40:29,264 : INFO : *********Test Case 001 Login******
+2023-08-27 11:40:29,264 : INFO : *********successfully lauched appliaction******
+2023-08-27 11:40:29,753 : INFO : *********Login to application******
+2023-08-27 11:40:35,943 : INFO : Test Case 001 Login : Passed
+2023-08-27 11:40:35,943 : INFO : *********Test Case 001 Login completed ******
+2023-08-27 11:40:45,025 : INFO : *********Test Case 002 application Logo******
+2023-08-27 11:40:45,025 : INFO : *********successfully lauched appliaction******
+2023-08-27 11:40:45,482 : INFO : *********Login to application******
+2023-08-27 11:40:49,913 : INFO : *********Verify application Logo******
+2023-08-27 11:40:49,974 : INFO : Test Case 002 Application Logo : Passed
+2023-08-27 11:40:49,975 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 07:58:08,977 : INFO : *********Test Case 001 Login******
+2023-09-02 07:58:09,066 : INFO : *********successfully lauched appliaction******
+2023-09-02 07:58:09,413 : INFO : *********Login to application******
+2023-09-02 07:58:15,098 : INFO : Test Case 001 Login : Passed
+2023-09-02 07:58:15,098 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 07:58:21,825 : INFO : *********Test Case 002 application Logo******
+2023-09-02 07:58:21,826 : INFO : *********successfully lauched appliaction******
+2023-09-02 07:58:22,151 : INFO : *********Login to application******
+2023-09-02 07:58:24,252 : INFO : *********Verify application Logo******
+2023-09-02 07:58:24,593 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 07:58:24,593 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:06:49,711 : INFO : *********Test Case 001 Login******
+2023-09-02 08:06:49,712 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:06:50,236 : INFO : *********Login to application******
+2023-09-02 08:06:50,313 : INFO : *********Test Case 002 application Logo******
+2023-09-02 08:06:50,313 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:06:50,792 : INFO : *********Login to application******
+2023-09-02 08:06:56,058 : INFO : *********Verify application Logo******
+2023-09-02 08:06:56,482 : ERROR : Test Case 002 Application Logo : Failed
+2023-09-02 08:06:56,482 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:06:58,178 : INFO : Test Case 001 Login : Passed
+2023-09-02 08:06:58,178 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 08:11:55,405 : INFO : *********Test Case 001 Login******
+2023-09-02 08:11:55,406 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:11:55,802 : INFO : *********Login to application******
+2023-09-02 08:11:56,991 : INFO : *********Test Case 002 application Logo******
+2023-09-02 08:11:56,992 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:11:57,389 : INFO : *********Login to application******
+2023-09-02 08:12:02,081 : INFO : *********Verify application Logo******
+2023-09-02 08:12:02,140 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 08:12:02,141 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:12:43,237 : INFO : *********Test Case 001 Login******
+2023-09-02 08:12:43,238 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:12:43,790 : INFO : *********Login to application******
+2023-09-02 08:12:44,244 : INFO : *********Test Case 002 application Logo******
+2023-09-02 08:12:44,245 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:12:44,748 : INFO : *********Login to application******
+2023-09-02 08:12:50,238 : INFO : *********Verify application Logo******
+2023-09-02 08:12:50,281 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 08:12:50,281 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:14:07,516 : INFO : *********Test Case 001 Login******
+2023-09-02 08:14:07,517 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:14:07,986 : INFO : *********Login to application******
+2023-09-02 08:14:14,196 : INFO : Test Case 001 Login : Passed
+2023-09-02 08:14:14,197 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 08:14:22,111 : INFO : *********Test Case 002 application Logo******
+2023-09-02 08:14:22,111 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:14:22,543 : INFO : *********Login to application******
+2023-09-02 08:14:25,899 : INFO : *********Verify application Logo******
+2023-09-02 08:14:25,948 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 08:14:25,949 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:14:57,500 : INFO : *********Test Case 001 Login******
+2023-09-02 08:14:57,500 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:14:58,224 : INFO : *********Login to application******
+2023-09-02 08:14:58,248 : INFO : *********Test Case 002 application Logo******
+2023-09-02 08:14:58,248 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:14:58,685 : INFO : *********Login to application******
+2023-09-02 08:15:04,709 : INFO : *********Verify application Logo******
+2023-09-02 08:15:04,759 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 08:15:04,760 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 08:15:07,234 : INFO : Test Case 001 Login : Passed
+2023-09-02 08:15:07,234 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 08:48:07,310 : INFO : *********Test Case 001 Login******
+2023-09-02 08:48:07,311 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:48:07,754 : INFO : *********Login to application******
+2023-09-02 08:49:12,916 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 08:49:12,916 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:49:13,753 : INFO : *********Login to application******
+2023-09-02 08:53:05,422 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 08:53:05,423 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:53:05,930 : INFO : *********Login to application******
+2023-09-02 08:53:45,958 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 08:53:45,959 : INFO : *********successfully lauched appliaction******
+2023-09-02 08:53:46,451 : INFO : *********Login to application******
+2023-09-02 08:53:55,437 : INFO : *********Login to application******
+2023-09-02 08:53:56,376 : INFO : *********Login to application******
+2023-09-02 08:53:57,272 : INFO : *********Login to application******
+2023-09-02 09:00:48,821 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 09:00:48,822 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:00:49,328 : INFO : *********Login to application******
+2023-09-02 09:01:42,843 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 09:01:42,844 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:01:43,258 : INFO : *********Login to application******
+2023-09-02 09:01:53,323 : INFO : *********Login to application******
+2023-09-02 09:01:54,240 : INFO : *********Login to application******
+2023-09-02 09:01:55,101 : INFO : *********Login to application******
+2023-09-02 09:01:55,630 : INFO : testCase_001_loginddt : Passed
+2023-09-02 09:01:55,630 : INFO : *********Test Case 001 Login with data driven testing completed ******
+2023-09-02 09:03:05,615 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 09:03:05,616 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:03:06,112 : INFO : *********Login to application******
+2023-09-02 09:03:14,227 : INFO : *********Login to application******
+2023-09-02 09:03:15,193 : INFO : *********Login to application******
+2023-09-02 09:03:16,115 : INFO : *********Login to application******
+2023-09-02 09:03:16,641 : INFO : testCase_001_loginddt : Passed
+2023-09-02 09:03:16,641 : INFO : *********Test Case 001 Login with data driven testing completed ******
+2023-09-02 09:06:21,331 : INFO : *********Test Case 001 Login******
+2023-09-02 09:06:21,332 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:06:21,775 : INFO : *********Login to application******
+2023-09-02 09:06:27,368 : INFO : Test Case 001 Login : Passed
+2023-09-02 09:06:27,368 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 09:06:36,267 : INFO : *********Test Case 002 application Logo******
+2023-09-02 09:06:36,267 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:06:36,635 : INFO : *********Login to application******
+2023-09-02 09:06:39,605 : INFO : *********Verify application Logo******
+2023-09-02 09:06:39,679 : INFO : Test Case 002 Application Logo : Passed
+2023-09-02 09:06:39,680 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-02 09:07:59,090 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 09:07:59,091 : INFO : *********successfully lauched appliaction******
+2023-09-02 09:07:59,527 : INFO : *********Login to application******
+2023-09-02 09:08:09,357 : INFO : *********Login to application******
+2023-09-02 09:08:10,356 : INFO : *********Login to application******
+2023-09-02 09:08:11,301 : INFO : *********Login to application******
+2023-09-02 09:08:11,862 : INFO : testCase_001_loginddt : Passed
+2023-09-02 09:08:11,862 : INFO : *********Test Case 001 Login with data driven testing completed ******
+2023-09-02 10:07:00,444 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:07:00,445 : INFO : *********successfully lauched application******
+2023-09-02 10:07:00,904 : INFO : *********Login to application******
+2023-09-02 10:07:05,841 : INFO : *********Successfully Login to application******
+2023-09-02 10:07:09,890 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:10:50,856 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:10:50,857 : INFO : *********successfully lauched application******
+2023-09-02 10:10:51,250 : INFO : *********Login to application******
+2023-09-02 10:10:55,208 : INFO : *********Successfully Login to application******
+2023-09-02 10:10:58,914 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:11:05,587 : INFO : *********Added customer information******
+2023-09-02 10:11:52,070 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:11:52,070 : INFO : *********successfully lauched application******
+2023-09-02 10:11:52,453 : INFO : *********Login to application******
+2023-09-02 10:11:56,080 : INFO : *********Successfully Login to application******
+2023-09-02 10:12:02,118 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:12:08,996 : INFO : *********Added customer information******
+2023-09-02 10:13:01,817 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:13:01,818 : INFO : *********successfully lauched application******
+2023-09-02 10:13:02,312 : INFO : *********Login to application******
+2023-09-02 10:13:06,305 : INFO : *********Successfully Login to application******
+2023-09-02 10:13:10,414 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:13:17,342 : INFO : *********Added customer information******
+2023-09-02 10:16:30,980 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:16:30,981 : INFO : *********successfully lauched application******
+2023-09-02 10:16:31,363 : INFO : *********Login to application******
+2023-09-02 10:16:36,740 : INFO : *********Successfully Login to application******
+2023-09-02 10:16:40,566 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:16:47,244 : INFO : *********Added customer information******
+2023-09-02 10:16:50,901 : ERROR : testCase_001_addcustomer : Failed
+2023-09-02 10:16:50,901 : INFO : *********Test Case 001 Add Customer completed ******
+2023-09-02 10:18:06,125 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:18:06,126 : INFO : *********successfully lauched application******
+2023-09-02 10:18:06,550 : INFO : *********Login to application******
+2023-09-02 10:18:16,010 : INFO : *********Successfully Login to application******
+2023-09-02 10:18:33,548 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:18:40,204 : INFO : *********Added customer information******
+2023-09-02 10:29:52,064 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 10:29:52,065 : INFO : *********successfully lauched application******
+2023-09-02 10:29:52,476 : INFO : *********Login to application******
+2023-09-02 10:29:58,632 : INFO : *********Successfully Login to application******
+2023-09-02 10:30:02,937 : INFO : *********Successfully launched to add customer page******
+2023-09-02 10:30:09,975 : INFO : *********Added customer information******
+2023-09-02 10:30:12,328 : INFO : testCase_001_addcustomer : Passed
+2023-09-02 10:30:12,329 : INFO : *********Test Case 001 Add Customer completed ******
+2023-09-02 23:38:57,452 : INFO : *********Test Case 001 Add Customer******
+2023-09-02 23:38:57,535 : INFO : *********successfully lauched application******
+2023-09-02 23:38:58,001 : INFO : *********Login to application******
+2023-09-02 23:39:01,532 : INFO : *********Successfully Login to application******
+2023-09-02 23:39:05,381 : INFO : *********Successfully launched to add customer page******
+2023-09-02 23:39:12,164 : INFO : *********Added customer information******
+2023-09-02 23:39:13,975 : INFO : testCase_001_addcustomer : Passed
+2023-09-02 23:39:13,975 : INFO : *********Test Case 001 Add Customer completed ******
+2023-09-02 23:39:24,347 : INFO : *********Test Case 001 Login******
+2023-09-02 23:39:24,347 : INFO : *********successfully lauched appliaction******
+2023-09-02 23:39:24,795 : INFO : *********Login to application******
+2023-09-02 23:39:33,474 : INFO : Test Case 001 Login : Passed
+2023-09-02 23:39:33,474 : INFO : *********Test Case 001 Login completed ******
+2023-09-02 23:39:41,672 : INFO : *********Test Case 002 application Logo******
+2023-09-02 23:39:41,672 : INFO : *********successfully lauched appliaction******
+2023-09-02 23:39:42,056 : INFO : *********Login to application******
+2023-09-02 23:39:45,455 : INFO : *********Verify application Logo******
+2023-09-02 23:39:45,947 : ERROR : Test Case 002 Application Logo : Failed
+2023-09-02 23:39:45,947 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-09-02 23:39:57,803 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-02 23:39:57,803 : INFO : *********successfully lauched appliaction******
+2023-09-02 23:39:58,536 : INFO : *********Login to application******
+2023-09-02 23:40:06,533 : INFO : *********Login to application******
+2023-09-02 23:40:07,405 : INFO : *********Login to application******
+2023-09-02 23:40:08,504 : INFO : *********Login to application******
+2023-09-02 23:40:10,040 : INFO : testCase_001_loginddt : Passed
+2023-09-02 23:40:10,041 : INFO : *********Test Case 001 Login with data driven testing completed ******
+2023-09-03 08:37:15,607 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:37:15,608 : INFO : *********successfully lauched application******
+2023-09-03 08:37:16,541 : INFO : *********Login to application******
+2023-09-03 08:37:22,156 : INFO : *********Successfully Login to application******
+2023-09-03 08:38:18,844 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:38:18,845 : INFO : *********successfully lauched application******
+2023-09-03 08:38:19,274 : INFO : *********Login to application******
+2023-09-03 08:38:22,306 : INFO : *********Successfully Login to application******
+2023-09-03 08:38:24,815 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:40:04,059 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:40:04,059 : INFO : *********successfully lauched application******
+2023-09-03 08:40:04,562 : INFO : *********Login to application******
+2023-09-03 08:40:09,255 : INFO : *********Successfully Login to application******
+2023-09-03 08:40:11,846 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:42:06,589 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:42:06,590 : INFO : *********successfully lauched application******
+2023-09-03 08:42:07,026 : INFO : *********Login to application******
+2023-09-03 08:42:10,742 : INFO : *********Successfully Login to application******
+2023-09-03 08:42:13,730 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:43:01,655 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:43:01,656 : INFO : *********successfully lauched application******
+2023-09-03 08:43:02,083 : INFO : *********Login to application******
+2023-09-03 08:43:04,836 : INFO : *********Successfully Login to application******
+2023-09-03 08:43:07,309 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:44:20,211 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:44:20,211 : INFO : *********successfully lauched application******
+2023-09-03 08:44:20,653 : INFO : *********Login to application******
+2023-09-03 08:44:24,641 : INFO : *********Successfully Login to application******
+2023-09-03 08:44:26,940 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:45:18,675 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:45:18,675 : INFO : *********successfully lauched application******
+2023-09-03 08:45:19,098 : INFO : *********Login to application******
+2023-09-03 08:45:22,999 : INFO : *********Successfully Login to application******
+2023-09-03 08:45:25,284 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:48:11,207 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:48:11,210 : INFO : *********successfully lauched application******
+2023-09-03 08:48:11,654 : INFO : *********Login to application******
+2023-09-03 08:48:15,889 : INFO : *********Successfully Login to application******
+2023-09-03 08:48:18,951 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:48:22,077 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 08:48:22,078 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-03 08:58:04,029 : INFO : *********Test Case 002 search Customer by First name******
+2023-09-03 08:58:04,029 : INFO : *********successfully lauched application******
+2023-09-03 08:58:04,412 : INFO : *********Login to application******
+2023-09-03 08:58:05,198 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 08:58:05,198 : INFO : *********successfully lauched application******
+2023-09-03 08:58:05,779 : INFO : *********Test Case 003 search Customer by Last name******
+2023-09-03 08:58:05,780 : INFO : *********successfully lauched application******
+2023-09-03 08:58:05,915 : INFO : *********Login to application******
+2023-09-03 08:58:06,321 : INFO : *********Login to application******
+2023-09-03 08:58:13,526 : INFO : *********Successfully Login to application******
+2023-09-03 08:58:14,067 : INFO : *********Successfully Login to application******
+2023-09-03 08:58:16,025 : INFO : *********Successfully Login to application******
+2023-09-03 08:58:17,838 : INFO : *********Searching for Customer By Email******
+2023-09-03 08:58:18,471 : INFO : *********Searching for Customer By First name******
+2023-09-03 08:58:19,527 : INFO : *********Searching for Customer By Last name******
+2023-09-03 08:58:20,967 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 08:58:20,967 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-03 08:58:21,556 : INFO : Test Case 001 search Customer by First name : Passed
+2023-09-03 08:58:21,556 : INFO : *********Test Case 002 search Customer by First name completed ******
+2023-09-03 08:58:22,617 : INFO : Test Case 003 search Customer by Last name : Passed
+2023-09-03 08:58:22,617 : INFO : *********Test Case 003 search Customer by Last name completed ******
+2023-09-03 09:07:28,528 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:07:28,528 : INFO : *********successfully lauched application******
+2023-09-03 09:07:28,938 : INFO : *********Login to application******
+2023-09-03 09:07:33,571 : INFO : *********Successfully Login to application******
+2023-09-03 09:07:36,058 : INFO : *********Searching for Customer By Email******
+2023-09-03 09:07:39,161 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 09:07:39,161 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-03 09:08:23,944 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:08:23,945 : INFO : *********successfully lauched application******
+2023-09-03 09:08:24,382 : INFO : *********Login to application******
+2023-09-03 09:08:28,072 : INFO : *********Successfully Login to application******
+2023-09-03 09:08:30,243 : INFO : *********Searching for Customer By Email******
+2023-09-03 09:08:33,360 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 09:08:33,360 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-03 09:08:41,902 : INFO : *********Test Case 001 Add Customer******
+2023-09-03 09:08:41,903 : INFO : *********successfully lauched application******
+2023-09-03 09:08:42,288 : INFO : *********Login to application******
+2023-09-03 09:08:45,421 : INFO : *********Successfully Login to application******
+2023-09-03 09:08:48,694 : INFO : *********Successfully launched to add customer page******
+2023-09-03 09:08:55,583 : INFO : *********Added customer information******
+2023-09-03 09:08:57,253 : INFO : testCase_001_addcustomer : Passed
+2023-09-03 09:08:57,253 : INFO : *********Test Case 001 Add Customer completed ******
+2023-09-03 09:09:16,436 : INFO : *********Test Case 001 Login******
+2023-09-03 09:09:16,436 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:09:16,879 : INFO : *********Login to application******
+2023-09-03 09:09:24,835 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:09:24,835 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:09:32,962 : INFO : *********Test Case 001 Login with data driven testing******
+2023-09-03 09:09:32,962 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:09:33,420 : INFO : *********Login to application******
+2023-09-03 09:09:40,695 : INFO : *********Login to application******
+2023-09-03 09:09:41,562 : INFO : *********Login to application******
+2023-09-03 09:09:42,365 : INFO : *********Login to application******
+2023-09-03 09:09:42,821 : INFO : testCase_001_loginddt : Passed
+2023-09-03 09:09:42,822 : INFO : *********Test Case 001 Login with data driven testing completed ******
+2023-09-03 09:14:29,364 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:14:29,365 : INFO : *********successfully lauched application******
+2023-09-03 09:14:29,816 : INFO : *********Login to application******
+2023-09-03 09:14:34,350 : INFO : *********Successfully Login to application******
+2023-09-03 09:14:37,090 : INFO : *********Searching for Customer By Email******
+2023-09-03 09:14:40,213 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 09:14:40,213 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-03 09:14:48,144 : INFO : *********Test Case 002 search Customer by First name******
+2023-09-03 09:14:48,144 : INFO : *********successfully lauched application******
+2023-09-03 09:14:48,504 : INFO : *********Login to application******
+2023-09-03 09:14:51,662 : INFO : *********Successfully Login to application******
+2023-09-03 09:14:53,618 : INFO : *********Searching for Customer By First name******
+2023-09-03 09:14:56,759 : INFO : Test Case 001 search Customer by First name : Passed
+2023-09-03 09:14:56,760 : INFO : *********Test Case 002 search Customer by First name completed ******
+2023-09-03 09:15:05,480 : INFO : *********Test Case 003 search Customer by Last name******
+2023-09-03 09:15:05,481 : INFO : *********successfully lauched application******
+2023-09-03 09:15:05,894 : INFO : *********Login to application******
+2023-09-03 09:15:10,216 : INFO : *********Successfully Login to application******
+2023-09-03 09:15:12,617 : INFO : *********Searching for Customer By Last name******
+2023-09-03 09:15:15,735 : INFO : Test Case 003 search Customer by Last name : Passed
+2023-09-03 09:15:15,735 : INFO : *********Test Case 003 search Customer by Last name completed ******
+2023-09-03 09:15:23,417 : INFO : *********Test Case 001 Login******
+2023-09-03 09:15:23,417 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:15:23,870 : INFO : *********Login to application******
+2023-09-03 09:15:30,493 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:15:30,494 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:15:39,351 : INFO : *********Test Case 002 application Logo******
+2023-09-03 09:15:39,351 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:15:39,748 : INFO : *********Login to application******
+2023-09-03 09:15:44,093 : INFO : *********Verify application Logo******
+2023-09-03 09:15:44,141 : INFO : Test Case 002 Application Logo : Passed
+2023-09-03 09:15:44,142 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-03 09:18:41,774 : INFO : *********Test Case 001 Login******
+2023-09-03 09:18:41,775 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:18:42,178 : INFO : *********Login to application******
+2023-09-03 09:18:53,551 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:18:53,553 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:19:06,053 : INFO : *********Test Case 002 application Logo******
+2023-09-03 09:19:06,053 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:19:06,524 : INFO : *********Login to application******
+2023-09-03 09:19:11,989 : INFO : *********Verify application Logo******
+2023-09-03 09:19:12,301 : ERROR : Test Case 002 Application Logo : Failed
+2023-09-03 09:19:12,301 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-09-03 09:19:24,749 : INFO : *********Test Case 001 Login******
+2023-09-03 09:19:24,750 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:19:25,853 : INFO : *********Login to application******
+2023-09-03 09:19:33,057 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:19:33,058 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:19:54,915 : INFO : *********Test Case 002 application Logo******
+2023-09-03 09:19:54,915 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:19:55,334 : INFO : *********Login to application******
+2023-09-03 09:19:57,466 : INFO : *********Verify application Logo******
+2023-09-03 09:19:57,576 : INFO : Test Case 002 Application Logo : Passed
+2023-09-03 09:19:57,577 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-03 09:22:04,220 : INFO : *********Test Case 001 Login******
+2023-09-03 09:22:04,221 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:22:04,661 : INFO : *********Login to application******
+2023-09-03 09:22:14,419 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:22:14,419 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:22:24,212 : INFO : *********Test Case 002 application Logo******
+2023-09-03 09:22:24,212 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:22:24,619 : INFO : *********Login to application******
+2023-09-03 09:22:28,477 : INFO : *********Verify application Logo******
+2023-09-03 09:22:28,533 : INFO : Test Case 002 Application Logo : Passed
+2023-09-03 09:22:28,534 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-03 09:25:11,463 : INFO : *********Test Case 001 Login******
+2023-09-03 09:25:11,464 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:25:11,808 : INFO : *********Login to application******
+2023-09-03 09:25:18,821 : INFO : Test Case 001 Login : Passed
+2023-09-03 09:25:18,821 : INFO : *********Test Case 001 Login completed ******
+2023-09-03 09:25:39,618 : INFO : *********Test Case 002 application Logo******
+2023-09-03 09:25:39,618 : INFO : *********successfully lauched appliaction******
+2023-09-03 09:25:39,899 : INFO : *********Login to application******
+2023-09-03 09:25:42,987 : INFO : *********Verify application Logo******
+2023-09-03 09:25:43,128 : INFO : Test Case 002 Application Logo : Passed
+2023-09-03 09:25:43,129 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-03 09:47:48,003 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:50:23,960 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:52:13,642 : INFO : *********Test Case 001 search Customer by Email******
+2023-09-03 09:52:20,979 : INFO : *********Searching for Customer By Email******
+2023-09-03 09:52:24,105 : INFO : Test Case 001 search Customer by Email : Passed
+2023-09-03 09:52:24,105 : INFO : *********Test Case 001 search Customer by Email completed ******

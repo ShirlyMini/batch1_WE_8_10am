@@ -1,0 +1,209 @@
+1693110259040	geckodriver	INFO	Listening on 127.0.0.1:63435
+1693110262110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJbKlS5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693110265144	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693110265320	Marionette	INFO	Listening on port 63447
+Read port: 63447
+WebDriver BiDi listening on ws://127.0.0.1:63436
+1693110266081	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63436/devtools/browser/73599d59-ef2e-4a3f-8d01-d5e9ffd91e84
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 156: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:17
+tz@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:450:134
+uz/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:450:111
+
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693398507437	Marionette	INFO	Stopped listening on port 63447
+Dynamically enable window occlusion 1
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 8648, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 16336, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6848, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 3056, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 6848, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferJavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 193: Script terminated by timeout at:
+ae@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:193:210
+fb.prototype.h@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:159:569
+hb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:160:238
+ib@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:160:52
+fn/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:161:271
+fb.prototype.h@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:159:569
+GF/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:570:420
+up@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:367:231
+aa.gm@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:558:3
+aa.fm/k/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:543:494
+Ij@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:286:221
+Uj@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:288:349
+k@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:543:480
+c@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:330:169
+on@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:331:269
+aa.fm@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:544:13
+c@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:563:694
+Xv@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:408:298
+Wv.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:411:266
+Wv.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:409:207
+Pv@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:406:712
+fF/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:564:153
+aa.uk/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:515:126
+aa.uk/c/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:514:420
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693330272954	Marionette	INFO	Stopped listening on port 63675
+Dynamically enable window occlusion 1
+[Parent 13196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6752, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6752, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+[Parent 13196, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:621
+[GPU 6752, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:443
+1693712919335	geckodriver	INFO	Listening on 127.0.0.1:56381
+1693712921786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56382" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofilegCuvIe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693712933507	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693712934962	Marionette	INFO	Listening on port 56425
+Read port: 56425
+WebDriver BiDi listening on ws://127.0.0.1:56382
+1693712936689	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+DevTools listening on ws://127.0.0.1:56382/devtools/browser/82b2de5d-ee3c-4398-a062-5e12ef2f06dd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1693712973159	Marionette	INFO	Stopped listening on port 56425
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.warn: services.settings: main/top-sites sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/doh-config sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/websites-with-shared-credential-backends sync interrupted by shutdown
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1693712978000	geckodriver	INFO	Listening on 127.0.0.1:56525
+1693712980998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56526" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileJTIhYE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693712981752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693712981955	Marionette	INFO	Listening on port 56534
+WebDriver BiDi listening on ws://127.0.0.1:56526
+Read port: 56534
+1693712983702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56526/devtools/browser/66186f46-50eb-4ec7-a782-49c1febb21a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1693712997580	Marionette	INFO	Stopped listening on port 56534
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1693713295801	geckodriver	INFO	Listening on 127.0.0.1:56818
+1693713298841	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofileVRJ6Bh"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693713299630	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693713299906	Marionette	INFO	Listening on port 56827
+WebDriver BiDi listening on ws://127.0.0.1:56819
+Read port: 56827
+1693713300646	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56819/devtools/browser/b52766c1-1202-449c-8832-3eacfba53fcf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1693713318827	Marionette	INFO	Stopped listening on port 56827
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH, line 183: Script terminated by timeout at:
+Ad@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:183:145
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+db@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:606
+cb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:405
+Td@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:189:283
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+db@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:606
+cb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:405
+Ad@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:183:158
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+db@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:606
+cb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:405
+Ud/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:190:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+yd@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:182:67
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+db@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:606
+cb@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:405
+Ud/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:190:384
+ed.prototype.invoke@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:171:1160
+db@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:606
+eb.prototype.F@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:156:1066
+Me@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:197:38
+ez/<@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:450:160
+Df@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:202:120
+e@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:401:216
+fv@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:403:1020
+Ov@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:407:37
+Zw@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:427:272
+bx@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:432:57
+dx@https://www.googletagmanager.com/gtag/js?id=G-2NJTDMQ3JH:433:43
+
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+1693713325099	geckodriver	INFO	Listening on 127.0.0.1:56879
+1693713328080	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\user\\AppData\\Local\\Temp\\rust_mozprofile7NXqNA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693713328988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693713329290	Marionette	INFO	Listening on port 56889
+WebDriver BiDi listening on ws://127.0.0.1:56880
+Read port: 56889
+1693713330127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56880/devtools/browser/1458a8e1-6052-444b-bd8e-b4f7370fb9f4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1693713343132	Marionette	INFO	Stopped listening on port 56889
+JavaScript warning: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: Script terminated by timeout at:
+map@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:3519
+map@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:1535
+clone@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:50427
+yr@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:30413
+ti@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:23350
+s@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:48035
+u/<@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:48122
+each@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:3003
+each@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:1481
+u@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:43032
+n.fn.DataTable@https://admin-demo.nopcommerce.com/js/qlvfucyxvmxlswx0bx1vxg.scripts.js?v=M1Ov74NfRaEDWnAXADkDp5tuu80:149:88805
+@https://admin-demo.nopcommerce.com/admin/:2151:39
+e@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30038
+Deferred/then/l/</t<@https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I:2:30340
+
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
