@@ -1,0 +1,23 @@
+import random
+import string
+
+import pytest
+
+from utilities.readConfig import ReadConfig
+from utilities.customLogger import Logger
+from pageObjects.login import loginPage
+from pageObjects.addCustomer import add_customers
+
+
+class Test003_Add_Customer_TestSuitedascsdcds:
+    log = Logger()
+    @pytest.mark.regression
+    def testCase_001_addcustomerqqwdewqdew(self, setup):
+        self.log.info("*********Test Case 001 Add Customer******")
+        self.driver = setup
+        self.log.info("*********successfully lauched application******")
+        self.lp_obj = loginPage(self.driver)
+        self.lp_obj.setUsername(ReadConfig.getUserEmail())
+        self.lp_obj.setUPassword(ReadConfig.getUserPassword())
+        self.log.info("*********Login to application******")
+        self.lp_obj.clickLogIn()
