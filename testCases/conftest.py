@@ -26,10 +26,25 @@ def setup(browser):
     yield driver
     driver.quit()
 
+@pytest.fixture()
+def setup_grid(browser):
+    BaseURL = ReadConfig.getApplicationURL()
+    if browser=="chrome":
+        option=webdriver.ChromeOptions()
+    elif browser=="edge":
+        option=webdriver.EdgeOptions()
+    elif browser=="firefox":
+        option=webdriver.FirefoxOptions()
+    else:
+        option=webdriver.ChromeOptions()
 
-
-
-
+    driver = webdriver.Remote(
+        command_executor=r"http://192.168.1.4:4444/wd/hub",
+        options=option)
+    driver.get(BaseURL)
+    driver.maximize_window()
+    yield driver
+    driver.quit()
 
 ###To get command line input###
 def pytest_addoption(parser):  # this will get the values from CLI

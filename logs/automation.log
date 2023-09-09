@@ -582,3 +582,44 @@
 2023-09-03 09:52:20,979 : INFO : *********Searching for Customer By Email******
 2023-09-03 09:52:24,105 : INFO : Test Case 001 search Customer by Email : Passed
 2023-09-03 09:52:24,105 : INFO : *********Test Case 001 search Customer by Email completed ******
+2023-09-09 09:02:58,437 : INFO : *********Test Case 001 Login******
+2023-09-09 09:02:58,494 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:03:00,513 : INFO : *********Login to application******
+2023-09-09 09:03:09,042 : INFO : Test Case 001 Login : Passed
+2023-09-09 09:03:09,042 : INFO : *********Test Case 001 Login completed ******
+2023-09-09 09:03:17,543 : INFO : *********Test Case 002 application Logo******
+2023-09-09 09:03:17,543 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:03:18,130 : INFO : *********Login to application******
+2023-09-09 09:03:23,205 : INFO : *********Verify application Logo******
+2023-09-09 09:03:25,380 : ERROR : Test Case 002 Application Logo : Failed
+2023-09-09 09:03:25,380 : ERROR : *********Test Case 002 Application Logo completed ******
+2023-09-09 09:04:35,978 : INFO : *********Test Case 001 Login******
+2023-09-09 09:04:35,978 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:04:36,424 : INFO : *********Login to application******
+2023-09-09 09:04:43,701 : INFO : Test Case 001 Login : Passed
+2023-09-09 09:04:43,702 : INFO : *********Test Case 001 Login completed ******
+2023-09-09 09:04:49,464 : INFO : *********Test Case 002 application Logo******
+2023-09-09 09:04:49,464 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:04:49,934 : INFO : *********Login to application******
+2023-09-09 09:04:52,482 : INFO : *********Verify application Logo******
+2023-09-09 09:04:52,631 : INFO : Test Case 002 Application Logo : Passed
+2023-09-09 09:04:52,631 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-09 09:17:19,273 : WARNING : Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C65D4AAD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2023-09-09 09:17:21,311 : WARNING : Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002C65D4AAE80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+2023-09-09 09:21:07,195 : INFO : *********Test Case 002 application Logo******
+2023-09-09 09:21:07,195 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:21:07,723 : INFO : *********Login to application******
+2023-09-09 09:21:12,192 : INFO : *********Verify application Logo******
+2023-09-09 09:21:12,281 : INFO : Test Case 002 Application Logo : Passed
+2023-09-09 09:21:12,281 : INFO : *********Test Case 002 Application Logo completed ******
+2023-09-09 09:23:27,165 : INFO : *********Test Case 001 Login******
+2023-09-09 09:23:27,165 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:23:27,758 : INFO : *********Login to application******
+2023-09-09 09:23:37,072 : INFO : Test Case 001 Login : Passed
+2023-09-09 09:23:37,073 : INFO : *********Test Case 001 Login completed ******
+2023-09-09 09:23:45,155 : INFO : *********Test Case 002 application Logo******
+2023-09-09 09:23:45,155 : INFO : *********successfully lauched appliaction******
+2023-09-09 09:23:45,656 : INFO : *********Login to application******
+2023-09-09 09:23:49,612 : INFO : *********Verify application Logo******
+2023-09-09 09:23:49,679 : INFO : Test Case 002 Application Logo : Passed
+2023-09-09 09:23:49,679 : INFO : *********Test Case 002 Application Logo completed ******
