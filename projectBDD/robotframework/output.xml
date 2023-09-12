@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.8.5 on win32)" generated="20230910 09:21:00.078" rpa="false" schemaversion="4">
+<suite id="s1" name="Login" source="C:\Users\user\PycharmProjects\pythonProjectBDD\robotframework\login.robot">
+<test id="s1-t1" name="Valid Login" line="13">
+<kw name="Open Browser To Login Page">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>${url}</arg>
+<arg>${BROWSER}</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230910 09:21:01.212" level="INFO">Opening browser 'Chrome' to base url 'https://admin-demo.nopcommerce.com/'.</msg>
+<status status="PASS" starttime="20230910 09:21:01.211" endtime="20230910 09:21:08.975"/>
+</kw>
+<kw name="Title Should Be" library="SeleniumLibrary">
+<arg>Your store. Login</arg>
+<doc>Verifies that the current page title equals ``title``.</doc>
+<msg timestamp="20230910 09:21:08.989" level="INFO">Page title is 'Your store. Login'.</msg>
+<status status="PASS" starttime="20230910 09:21:08.976" endtime="20230910 09:21:08.989"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:01.210" endtime="20230910 09:21:08.989"/>
+</kw>
+<kw name="Read Data" library="xlutilites">
+<var>${user}</var>
+<arg>${xl_path}</arg>
+<arg>${sheet}</arg>
+<arg>2</arg>
+<arg>1</arg>
+<msg timestamp="20230910 09:21:09.014" level="INFO">${user} = admin@yourstore.com</msg>
+<status status="PASS" starttime="20230910 09:21:08.990" endtime="20230910 09:21:09.014"/>
+</kw>
+<kw name="Input Username">
+<arg>${user}</arg>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>Email</arg>
+<arg>${username}</arg>
+<arg>clear=True</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230910 09:21:09.016" level="INFO">Typing text 'admin@yourstore.com' into text field 'Email'.</msg>
+<status status="PASS" starttime="20230910 09:21:09.015" endtime="20230910 09:21:09.298"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:09.015" endtime="20230910 09:21:09.298"/>
+</kw>
+<kw name="Read Data" library="xlutilites">
+<var>${pass}</var>
+<arg>${xl_path}</arg>
+<arg>${sheet}</arg>
+<arg>2</arg>
+<arg>2</arg>
+<msg timestamp="20230910 09:21:09.320" level="INFO">${pass} = admin</msg>
+<status status="PASS" starttime="20230910 09:21:09.298" endtime="20230910 09:21:09.320"/>
+</kw>
+<kw name="Input Password">
+<arg>${pass}</arg>
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>Password</arg>
+<arg>${password}</arg>
+<arg>clear=True</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230910 09:21:09.324" level="INFO">Typing text 'admin' into text field 'Password'.</msg>
+<status status="PASS" starttime="20230910 09:21:09.323" endtime="20230910 09:21:09.534"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:09.322" endtime="20230910 09:21:09.534"/>
+</kw>
+<kw name="Submit Credentials">
+<kw name="Click Button" library="SeleniumLibrary">
+<arg>//button[@type='submit']</arg>
+<doc>Clicks the button identified by ``locator``.</doc>
+<msg timestamp="20230910 09:21:09.538" level="INFO">Clicking button '//button[@type='submit']'.</msg>
+<status status="PASS" starttime="20230910 09:21:09.537" endtime="20230910 09:21:13.856"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:09.536" endtime="20230910 09:21:13.856"/>
+</kw>
+<kw name="Welcome Page Should Be Open">
+<kw name="Title Should Be" library="SeleniumLibrary">
+<arg>Dashboard / nopCommerce administration</arg>
+<doc>Verifies that the current page title equals ``title``.</doc>
+<msg timestamp="20230910 09:21:13.870" level="INFO">Page title is 'Dashboard / nopCommerce administration'.</msg>
+<status status="PASS" starttime="20230910 09:21:13.858" endtime="20230910 09:21:13.870"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:13.857" endtime="20230910 09:21:13.870"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230910 09:21:13.871" endtime="20230910 09:21:16.508"/>
+</kw>
+<status status="PASS" starttime="20230910 09:21:01.209" endtime="20230910 09:21:16.508"/>
+</test>
+<doc>Simple example using SeleniumLibrary.</doc>
+<status status="PASS" starttime="20230910 09:21:00.081" endtime="20230910 09:21:16.510"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Login">Login</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
