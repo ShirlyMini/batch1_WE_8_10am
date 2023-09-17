@@ -1,0 +1,173 @@
+Assignment:
+============
+
+1. Check positive or negative number
+2. largest of 2 number
+3. largest of 3 number
+4. print month if you provide month number
+
+loops:
+1. Write a Python program that prints all the numbers from 0 to 16 except 3 and 6
+2. Write a Python program to create the multiplication table (from 1 to 10) of a number.
+3. Calculate the cube of all numbers from 1 to a given number
+
+https://pynative.com/python-exercises-with-solutions/
+
+
+>>> str1 = "string"
+>>> id(str1)
+1384583411824
+>>> str1.replace("in", "on")
+'strong'
+>>> print(str1)
+string
+>>> id(str1)
+1384583411824
+>>> str2=str1.replace("in", "on")
+>>> id(str2)
+1384596562032
+>>> str2
+'strong'
+>>> str1
+'string'
+#######################3
+>>> l1=[1,2,3]
+>>> id(l1)
+1384596698248
+>>> l1[0]=100
+>>> id(l1)
+1384596698248
+#####################
+>>> t1=(1,2,3)
+>>> id(t1)
+1384596734264
+>>> list(t1)
+[1, 2, 3]
+>>> t1
+(1, 2, 3)
+>>> l2=list(t1)
+>>> id(l2)
+1384594001608
+>>> l2[0]=100
+>>> l2
+[100, 2, 3]
+>>> id(l2)
+1384594001608
+>>> t1=tuple(l2)
+>>> t1
+(100, 2, 3)
+>>> id(t1)
+1384596557976
+>>> 
+
+if the id of the variable is getting changed then that datatype is immutable.
+
+String
+Immutable
+Ordered
+Indexed
+""
+
+
+
+
+Collections			
+List	|	Tuple		|	Set			|	Dict
+Mutable	|	Immutable	|	Mutable		|	Mutable
+Ordered	|	Ordered		|	Unordered	|	Unordered
+Indexed	|	Indexed		|	Unindexed	|	Unindexed
+[]		|	()			|	{}			|	{key:value}
+
+list can be array, array canot be list?
+
+array is collection of homogenous element
+list is a collection of heterogenous element
+
+
+[10,20,30,40,50,60,70]
+["tomato", "onion", "spinach", "panneer", "tofu", "potato", "vannilla", "strawberry", "corn", "berry", ]
+
+key 	value
+prod1	100
+prod2	200
+prod3	100
+prod4	400
+
+# Functions
+##############
+Set of statements can perform tasks
+1) function declaration
+2) function invoke
+
+different ways to declare function:
+1. No arugument with no return
+2. No arugument with return
+3. arugument with no return
+4. arugument with return 
+
+Global Vs Local variable
+############################
+global variable created outside function
+local variable created inside function
+
+if we want to access global variable inside fuction use keyword 'global'
+
+2 types of arguments or parameter we can pass in function:
+##########################################################
+
+1) positional parameter
+2) keyword parameter
+
+
+OOPS concepts:[obeject oriented programming system]
+#################
+1. python is structured and object oriented
+2. it supports oops concepts
+
+OOPS concepts:
+1. class
+2. object
+3. inheritance
+4. polymorphism
+
+Class:
+blueprint or template
+logical enttity
+doesnot occupy space in memory
+
+object:
+instance of class
+will accquire everything[functions and variables] from class
+multiple object can be created from class
+objects are independent to each other.
+physical entity
+occupy certain space in memory
+
+Functions VS method
+functions created inside class are called methods
+function = without class
+
+self:
+self represent class or class name
+self is the first parameter/default parameter in class method
+
+
+# instance method vs static method
+instance method called only using object, differ for different class
+static method called directly using class name
+static method in annotation in python. it is common for over all class 
+
+
+# constructor
+method will get invoked using object.
+can have any name
+
+VS
+
+__init__(self):
+will not return any value
+takes any parameter
+will get invoked at the time of object creation. 
+
+# inheritance
+Aquiring all the attributes from one class to another class is called inheritance
